@@ -1,6 +1,12 @@
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
+## Entrega
+
+- [Organización](https://github.com/ULL-MFP-AET-2324-alu0100699968)
+- [Classroom](https://classroom.github.com/classrooms/149103359-ull-mfp-aet-2324-alu0100699968)
+- [Assignment](https://classroom.github.com/a/o1aEu8nN)
+
 ## Edit this project
 
 To edit this repository in MakeCode.
