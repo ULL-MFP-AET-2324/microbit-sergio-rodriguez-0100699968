@@ -3,6 +3,11 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 remote_theme: pages-themes/minimal@v0.2.0
+asignatura: Aprendizaje y Enseñanza de la Tecnología
+lista:
+  - uno
+  - dos
+  - tres
 plugins:
   - jekyll-remote-theme
 include:
